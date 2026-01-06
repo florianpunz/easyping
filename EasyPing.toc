@@ -1,0 +1,8 @@
+## Interface: 11500
+## Title: EasyPing
+## Notes: Displays ping latency below the minimap
+## Author: github.com/florianpunz
+## Version: 1.1
+## SavedVariables: EasyPingDB
+
+EasyPing.lua
